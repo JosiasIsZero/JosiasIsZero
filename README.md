@@ -1,9 +1,11 @@
 ## Hello There, I'm Josias Ntanda! 🌱
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasIsZero&layout=pie" alt="josiasiszero"/></p>
+<p><img align="right" width="300px" height="300px" src="https://github.com/JosiasIsZero/JosiasIsZero/assets/105129441/bc53bdad-9c8c-4712-a66c-5a0dd1cdf81e"></p>
 
 
-<p text-align="center">These Are My Github Stats, To Give A Slight Representation Of My Skills Based Only On The Repositories I've Uploaded!</p>
-<p text-align="center">Other languages I Am Familiar With Are Displayed Below</p>
+
+<p text-align="justify">These Are My Github Stats, To Give A Slight Representation Of My Skills Based Only On The First 100 Repositories I've Uploaded!</p>
+<p text-align="justify">Other languages I Am Familiar With Are Displayed Below!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/josias_is_zero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josias_is_zero" height="30" width="40" /></a>
